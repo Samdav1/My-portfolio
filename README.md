@@ -78,3 +78,4 @@ To add a new project, simply open `projects-data.js` and add an entry to the `po
 ### Vercel / Netlify
 - Drag and drop this folder into the [Netlify Drop](https://app.netlify.com/drop) dashboard or import the repository in [Vercel](https://vercel.com).
 
+# My-portfolio
